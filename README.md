@@ -7,7 +7,7 @@ Feed Reader application. Instructions to run the tests and the original Udacity 
 # Instructions
 To run the game locally, first clone or download the project:
 
-`git clone https://github.com/seancabrera/frontend-nanodegree-feedreader.git`
+`git clone https://github.com/seancabrera/feedreader-testing-udacity.git`
 
 Then open `index.html` in a browser and scroll to the bottom to see the Jasmine test results.
 
