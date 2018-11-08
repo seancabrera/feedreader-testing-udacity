@@ -1,3 +1,18 @@
+Feed Reader Testing
+============================
+
+This project is part of the Udacity Front-End Web Developer Nanodegree program. The objective is to implement Jasmine tests for a given
+Feed Reader application. Instructions to run the tests and the original Udacity project overview are below.
+
+# Instructions
+To run the game locally, first clone or download the project:
+
+`git clone https://github.com/seancabrera/frontend-nanodegree-feedreader`
+
+Then open `index.html` in a browser and scroll to the bottom to see the Jasmine test results.
+
+
+
 # Project Overview
 
 In this project you are given a web-based application that reads RSS feeds. The original developer of this application clearly saw the value in testing, they've already included [Jasmine](http://jasmine.github.io/) and even started writing their first test suite! Unfortunately, they decided to move on to start their own company and we're now left with an application with an incomplete test suite. That's where you come in.
